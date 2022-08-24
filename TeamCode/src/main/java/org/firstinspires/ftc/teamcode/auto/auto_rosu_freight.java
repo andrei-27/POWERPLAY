@@ -625,42 +625,6 @@ public class auto_rosu_freight extends LinearOpMode
                 stop();
             }
 
-
-            /*
-            sleep(100);
-            intake1.setVelocity(-1800);
-            sleep(100);
-            drive.followTrajectory(trajectory3);
-            cleste1.hub();
-            cleste2.hub();
-            sleep(150);
-            drive.followTrajectory(trajectory4);
-            sleep(100);
-            intake1.setVelocity(-1800);
-            sleep(100);
-            drive.followTrajectory(trajectory5);
-            cleste1.hub();
-            cleste2.hub();
-            sleep(150);
-            drive.followTrajectory(trajectory6);
-            sleep(100);
-            intake1.setVelocity(-1800);
-            sleep(100);
-            drive.followTrajectory(trajectory7);
-            cleste1.hub();
-            cleste2.hub();
-            sleep(150);
-            drive.followTrajectory(trajectory8);
-            sleep(100);
-            intake1.setVelocity(-1800);
-            sleep(100);
-            drive.followTrajectory(trajectory9);
-            cleste1.hub();
-            cleste2.hub();
-            sleep(150);
-            drive.followTrajectory(trajectory10);
-
-             */
             stop();
         }
     }
